@@ -1,5 +1,4 @@
 - Hi, I’m @410Xthelinuxuser 👋
-- I’m interested in Linux (THE BEST OS)
-- I’m currently learning about Linux
+- I’m interested in Linux and I am also learning about it.
 - I’m looking to collaborate on projects based on Linux (e.g. WSL, Termux, etc.)
-- Pronouns: He/Him
+- My pronouns are: He/Him
