@@ -1,4 +1,4 @@
-- Hi, I’m @410Xthelinuxuser 👋
-- I’m interested in Linux and I am also learning about it.
-- I’m looking to collaborate on projects based on Linux (e.g. WSL, Termux, etc.)
-- My pronouns are: He/Him
+- Hi, I’m Alok Nayak. 👋
+- I’m interested in Linux and learning about it. 🐧
+- I’m looking to contribute to projects related to Linux (e.g. WSL, Termux, etc.) (>_) (</>)
+- My pronouns are: He/Him. 🙋‍♂️
