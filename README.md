@@ -1,4 +1,3 @@
 - Hi, I’m Alok Nayak. 👋
-- I’m interested in Linux and learning about it. 🐧
-- I’m looking to contribute to projects related to Linux (e.g. WSL, Termux, etc.)
 - My pronouns are: He/Him. 🙋‍♂️
+- now get the heck out of here before i throw a bunch of linux commands at a guy who doesnt even know how to use a terminal
